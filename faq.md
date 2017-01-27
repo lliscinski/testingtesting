@@ -114,6 +114,7 @@ We accept Visa, MasterCard, American Express, and Discover cards issued within C
 **Does HauteLook charge sales tax?**
 
 As a Nordstrom company, we are considered a part of the physical presence of any Nordstrom store or shipping facility. We are thereby required by state law to collect sales tax on any order shipped to your state. If you have any further questions or concerns, please contact your state Department of Revenue. You may also visit: [http://statelaws.findlaw.com/tax-laws/](http://statelaws.findlaw.com/tax-laws/)
+
 STATE & LOCAL SALES TAXES
 
 The terms contained herein are subject to change as the taxation of online transactions is continually evolving. HauteLook strives to comply with state and local tax laws as they exist currently and continues to monitor and update its taxation policies as those laws change.
@@ -299,10 +300,10 @@ Apply for a Nordstrom credit or debit card and earn points twice as fast (2 poin
 **Where can I earn rewards points?**
 
 You can earn points on anything you buy at:
-*Nordstrom and Nordstrom Rack stores
-*Nordstrom.com
-*NordstromRack.com
-*HauteLook
+* Nordstrom and Nordstrom Rack stores
+* Nordstrom.com
+* NordstromRack.com
+* HauteLook
 In addition, Nordstrom Visa® credit card holders earn 1 point per dollar on purchases made outside of Nordstrom (e.g. gas, groceries, restaurants, etc.), anywhere Visa® credits cards are accepted.
 
 **How do I earn rewards points?**
@@ -317,10 +318,10 @@ Yes! Nordstrom cardholders earn double or triple points for purchases made at no
 **Where can I spend my Nordstrom Note(s)?**
 
 You can spend your Notes on anything you buy at:
-*Nordstrom and Nordstrom Rack stores
-*Nordstrom.com
-*NordstromRack.com
-*HauteLook
+* Nordstrom and Nordstrom Rack stores
+* Nordstrom.com
+* NordstromRack.com
+* HauteLook
 
 **How do I use my available Nordstrom Note(s)?**
 
