@@ -342,13 +342,15 @@ Not yet. On your Personal Triple Points Day, you can only earn triple points for
 ##Contact Us
 ###LIVE CHAT
 6AM-10PM Pacific, 7 days a week
+
 **Chat Now**
 
 ###PHONE NUMBERS
 **Customer Care**
 6AM-10PM Pacific, 7 days a week
-
 1-888-547-8438
+
+###EMAIL
 [membercare@hautelook.com](mailto:membercare@hautelook.com?subject=Inquiry&body=Order%20Number:%0D%0AFirst%20Name:%0D%0ALast%20Name:%0D%0AEmail%20Address:%0D%0AHow%20can%20we%20help?:%0D%0A%0D%0A)
 
 Back to top
