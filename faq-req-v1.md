@@ -20,6 +20,6 @@ Allow customers to find answers for commonly asked questions in order to decreas
 
 * Back to top icon is persistent and follows the customer as they scroll down the site. It is located on the right side of the page.
 * The contact us box on the top right of the page includes methods for the customer to contact customer services
- * Considerations:
-  * LIVE CHAT shows a link for *Chat Now* that launches the CSR live chat modal.
-  * EMAIL shows a link for *membercare@hautelook.com* which lauches an email modal addressed to membercare@hautelook.com
+  * Considerations:
+    * LIVE CHAT shows a link for *Chat Now* that launches the CSR live chat modal.
+    * EMAIL shows a link for *membercare@hautelook.com* which lauches an email modal addressed to membercare@hautelook.com
