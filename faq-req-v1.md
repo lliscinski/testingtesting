@@ -1,6 +1,6 @@
 #FAQ Page Requirements
 
-[FAQ Page](/support)
+[FAQ Page](https://www.hautelook.com/support#faq_page)
 *Note: Please refer to current FAQ page for style requirements*
 
 Allow customers to find answers for commonly asked questions in order to decrease customer service workload
