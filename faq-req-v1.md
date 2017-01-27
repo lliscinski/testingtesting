@@ -11,7 +11,7 @@ Allow customers to find answers for commonly asked questions in order to decreas
  * If an FAQ answer is exposed and the customer clicks on a new FAQ, the currently exposed answer will be hidden and all subsequent items are pulled. At the same time the answer for the new FAQ will be exposed and all subsequent items are pushed.
  * Specific considerations
    * The answer to FAQ - *Does HauteLook charge sales tax?* includes URL [http://statelaws.findlaw.com/tax-laws/](http://statelaws.findlaw.com/tax-laws/) and this link needs to open a new window.
-    * Under both ORDERS and SHIPPING & RETURNS sections, an initial set of FAQs is present with the option to see all. When customer clicks *See all \[HEADER TITLE]\ questions*, the remaining FAQs will be exposed,pushing subsequent items, and a *Close* option will be present at the bottom.
+    * Under both ORDERS and SHIPPING & RETURNS sections, an initial set of FAQs is present with the option to see all. When customer clicks *See all \[HEADER TITLE] questions*, the remaining FAQs will be exposed,pushing subsequent items, and a *Close* option will be present at the bottom.
     * If customer clicks on *Close*, the extended FAQs will be hidden and will pull all susbsequent items.
     * At the bottom of the SHIPPING & RETURNS section, there is a link to the [Shipping & Returns](/ship-return-policy) relative URL.
     * Under the ACCOUNT - How do I update my email preferences? FAQ, there is a link to the [Email Preference Center](/account) relative URL.
