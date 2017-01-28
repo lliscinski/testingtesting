@@ -194,7 +194,7 @@ For Canadian and Australian orders, a 20% international surcharge may apply, whi
 
 **Close**
 
-RETURNS
+###RETURNS
 
 Not in love with your purchase? We’ll gladly take eligible items back within 90 days from the original ship date. Just be sure you have not worn or altered it. The price tag must also be attached to the item and you’ll need to present the receipt or invoice. Eligible returns will be credited to your original form of tender or a gift card (gift cards cannot be redeemed for cash unless required by law). Once you return an item, it will not be available for immediate repurchase. You can return your purchase to us by mail or to a Nordstrom Rack Store. Visit our Shipping & Returns page for more details.
 
