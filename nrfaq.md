@@ -330,6 +330,7 @@ If you already have an account:
 
 
 If you don't have an account:
+
 1. Enter your email address at the bottom of the page
 2. Click "Sign Up" to start receiving exclusive offers, promotions and more.
 
