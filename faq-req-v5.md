@@ -6,11 +6,11 @@
 
 Nordstrom Rack
 * For syle requirements, please refer to current [NR FAQ Page](https://www.nordstromrack.com/faq)
-* For copy, please refer to [NR FAQ Copy Page](#NR-FAQ-Copy-Page)
+* For copy, please refer to [NR FAQ Copy Page](#nr-faq-copy-page)
 
 HauteLook
 * For syle requirements, please refer to current [HL FAQ Page](https://www.hautelook.com/support#faq_page)
-* For copy, please refer to [HL FAQ Copy Page](#HL-FAQ-Copy-Page)
+* For copy, please refer to [HL FAQ Copy Page](#hl-faq-copy-page)
 
 ###Functionality
 
