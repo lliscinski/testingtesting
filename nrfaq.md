@@ -292,6 +292,7 @@ All merchandise has a set amount of inventory. An item is placed "On Hold" when 
 **I forgot my password. What do I do?**
 
 Don't sweat it. Just follow these steps:
+
 1. Click "Sign In" at the top of the page
 2. Select "Forget Password?"
 3. Enter your email address, and we'll send you a link to reset your new password
@@ -323,8 +324,10 @@ If you have a Nordstrom.com account or signed up using the Nordstrom Rack Alerts
 **How do I sign up for email notifications?**
 
 If you already have an account:
+
 1. Visit the Email Preference Center
 2. Click "Receive Emails" and select "Save Changes" to get on the list
+
 
 If you don't have an account:
 1. Enter your email address at the bottom of the page
