@@ -30,8 +30,8 @@ Goal: Allow our customers to see up to date shipping and return policies as well
         <td>CONSIDERATIONS</td>
     </tr>
     <tr>
-        <td>**US Orders over $100**</td>
-        <td>**Free**</td>
+        <td>US Orders over $100</td>
+        <td>Free</td>
         <td>Applies to orders over $100 before tax. International orders and all items over 5lbs excluded.</td>
     </tr>
     <tr>
@@ -140,8 +140,8 @@ Still have questions? Contact [Customer Care](https://www.nordstromrack.com/faq)
         <td>CONSIDERATIONS</td>
     </tr>
     <tr>
-        <td>**US Orders over $100**</td>
-        <td>**Free**</td>
+        <td>US Orders over $100</td>
+        <td>Free</td>
         <td>Applies to orders over $100 before tax. International orders and all items over 5lbs excluded.</td>
     </tr>
     <tr>
