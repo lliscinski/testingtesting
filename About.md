@@ -18,7 +18,7 @@ Goal: To allow customers to learn about the NRHL brands and connect with the bra
 * All CTAs on the about page will open the link in new windows
 * Informational text is overlayed on top of the background images.
 
-#NR About Page Copy
+##NR About Page Copy
 
 ##About Our Brand
 
