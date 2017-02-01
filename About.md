@@ -40,12 +40,12 @@ Join the conversation and share your finds with us using #NordstromRack.
 
 ##Nordstrom Rack App
 
-###**Shop and save** on the brands you love— anytime, anywhere.
-###AVAILABLE FOR iPHONE, iPAD & ANDROID DEVICES
+**Shop and save** on the brands you love— anytime, anywhere.
+AVAILABLE FOR iPHONE, iPAD & ANDROID DEVICES
 
 ##Shop with Confidence
 
-###Have a change of heart? Don't worry, Shopping Genius.
+Have a change of heart? Don't worry, Shopping Genius.
 
 We offer easy 90-day returns your way—by mail or
 in store. Check out our [Shipping & Return Policy](https://www.nordstromrack.com/ship-return-policy) for more information.
@@ -107,6 +107,7 @@ Call **1-888-547-8438**, or shoot us an email at [membercare@hautelook.com.](mai
 [brands@hautelook.com](mailto:brands@hautelook.com)
 
 **Business Development**
+
 [bd@hautelook.com](mailto:bd@hautelook.com)
 
 ###Work with Us
