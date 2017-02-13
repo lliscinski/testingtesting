@@ -54,6 +54,8 @@ tab_category: "Beauty"
 
 **Note:** The following is when there are no Promo CMS tiles scheduled. See [Promotional Tiles](#promotional-tiles) for direction on page layout when Promotional Tiles are scheduled.
 
+[Back to Top](#events-page)
+
 
 ###Main Event Tile
 
@@ -112,6 +114,8 @@ If the API returns "Regular", headline text and SHOP NOW button should not be di
 ```JSON
 display_format: "Regular"
 ```
+
+[Back to Top](#events-page)
 
 ###Secondary Event Tiles
 
